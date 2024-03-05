@@ -1,0 +1,1 @@
+Please download both files. Create a directory called musicstream and extract app.zip to the directory. Do the same to the vendor.zip also. if you are making use of MYSQL, create a database called musicstream and import the sql file in the project to the database you just created
